@@ -7,3 +7,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/maantrambadia/aerisgo-web.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/maantrambadia/aerisgo-mobile.git
