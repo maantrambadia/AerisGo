@@ -1,4 +1,3 @@
-# AerisGo
 ![AerisGo MockUp](https://share.maantrambadia.com/u/AerisGo_MockUp.png)
 
 ---
