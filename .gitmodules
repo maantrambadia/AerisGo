@@ -1,0 +1,3 @@
+[submodule "Implementation/AerisGo_Backend"]
+	path = Implementation/AerisGo_Backend
+	url = https://github.com/maantrambadia/aerisgo-backend.git
