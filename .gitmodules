@@ -7,3 +7,6 @@
 [submodule "Implementation/AerisGo_Web"]
 	path = Implementation/AerisGo_Web
 	url = https://github.com/maantrambadia/aerisgo-web.git
+[submodule "Implementation/AerisGo_Mobile"]
+	path = Implementation/AerisGo_Mobile
+	url = https://github.com/maantrambadia/aerisgo-mobile.git
