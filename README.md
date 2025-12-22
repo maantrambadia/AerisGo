@@ -22,8 +22,8 @@ This repository uses Git submodules to manage different parts of the project.
 | Module     | Technology Used                |
 |------------|--------------------------------|
 | Backend    | Node.js, Express.js, MongoDB   |
-| Web        | React.js                       |
 | Dashboard  | React.js                       |
+| Web        | React.js                       |
 | Mobile     | React Native                   |
 
 ---
@@ -52,11 +52,11 @@ Work was divided by modules, not by equal commit count.
 
 | Module      | Contributor(s)                      |
 |-------------|-------------------------------------|
-| Backend     | Vansh Lakhani, Maan Trambadia        |
-| Web         | Parth Joisar                       |
+| Backend     | Vansh Lakhani, Maan Trambadia       |
 | Dashboard   | Esha Bhadja                         |
+| Web         | Parth Joisar                        |
 | Mobile      | Aaditya Paneri                      |
-| Docs & Test | Vansh Lakhani, Maan Trambadia        |
+| Docs & Test | Vansh Lakhani, Maan Trambadia       |
 
 ---
 
