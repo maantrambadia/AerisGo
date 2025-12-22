@@ -1,4 +1,4 @@
-![AerisGo MockUp](https://share.maantrambadia.com/u/AerisGo_MockUp.png)
+![AerisGo MockUp](Screenshots/AerisGo_MockUp.png)
 
 ---
 
@@ -31,10 +31,10 @@ This repository uses Git submodules to manage different parts of the project.
 ## 📁 Repository Structure
 
 AerisGo/<br>
-├── backend/     → Backend services  
-├── web/         → User-facing web application  
-├── dashboard/   → Admin dashboard  
-├── mobile/      → Mobile application  
+├── Diagrams/       → Project Diagrams<br> 
+├── Documents/      → Project Documents<br>
+├── Implementation/ → Project Implementation<br> 
+├── Screenshots/    → Project Screenshots
 
 ---
 
