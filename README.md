@@ -31,6 +31,7 @@ This repository uses Git submodules to manage different parts of the project.
 ## 📁 Repository Structure
 
 AerisGo/<br>
+├── Designs/Figma/  → Project Designs<br> 
 ├── Diagrams/       → Project Diagrams<br> 
 ├── Documents/      → Project Documents<br>
 ├── Implementation/ → Project Implementation<br> 
@@ -57,6 +58,7 @@ Work was divided by modules, not by equal commit count.
 | Web         | Parth Joisar                        |
 | Mobile      | Aaditya Paneri                      |
 | Docs & Test | Vansh Lakhani, Maan Trambadia       |
+| Designs     | Parth Joisar                        |
 
 ---
 
